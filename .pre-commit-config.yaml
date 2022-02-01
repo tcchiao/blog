@@ -30,4 +30,5 @@ repos:
     hooks:
       - id: eslint
         additional_dependencies:
+          - eslint
           - next
