@@ -29,3 +29,5 @@ repos:
     rev: 'v8.8.0'
     hooks:
       - id: eslint
+        additional_dependencies:
+          - next
